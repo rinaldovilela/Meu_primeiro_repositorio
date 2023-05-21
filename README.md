@@ -5,4 +5,6 @@
 
 ### Utilizando syntax no markdown.
 
-*Adicionando commit de organização.
+* Adicionando commit de organização.
+* Comando git push
+* comando git pull
